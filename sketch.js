@@ -12,7 +12,7 @@ function preload() {
   car1_img = loadImage("assets/Boi2.png");
   car2_img = loadImage("assets/lol.png");
   track = loadImage("assets/track.jpg");
-  fuelImage = loadImage("assets/fuel.png");
+  fuelImage = loadImage("assets/wb.png");
   powerCoinImage = loadImage("assets/goldCoin.png");
   obstacle1Image = loadImage("assets/rock.png");
   obstacle2Image = loadImage("assets/rock2.png");
