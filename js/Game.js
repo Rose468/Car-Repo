@@ -59,7 +59,7 @@ class Game {
     ];
 
     // Adding fuel sprite in the game
-    this.addSprites(fuels, 4, fuelImage, 0.02);
+    this.addSprites(fuels, 4, fuelImage, 0.25);
 
     // Adding coin sprite in the game
     this.addSprites(powerCoins, 18, powerCoinImage, 0.09);
